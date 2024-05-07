@@ -2,7 +2,9 @@
 
 I am an experienced Geography graduate specialized in Geospatial Analysis with over two years experience as a Research
 Assistant, focusing on climate change impact on cash crops in California. I am highly proficient in GIS and Python coding for data
-analysis and automation.
+analysis and automation. My interest in Geographic Information Systems (GIS) stems from its remarkable ability to address complex real-world
+challenges through spatial analysis and data visualization. Unlike conventional mapping tools, GIS offers a sophisticated platform for 
+understanding geographical data and making informed decisions.
 
 ## Description
 
