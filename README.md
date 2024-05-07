@@ -16,11 +16,12 @@ suitability range of pistachios will be changing in the near future.
 
 Dylan Russell  
 
-@dylan.russell046@gmail.com
+dylan.russell046@gmail.com
 
 714-599-2003
 
 ## Resume
+[Resume Updated April 2024](https://livecsupomona-my.sharepoint.com/:b:/g/personal/darussell_cpp_edu/EWOHs9tHrIlDmC82FHTzz4EBnEPb8U-mISnNLSDO_NIBoA?e=UpoSH6)
 
 ## Additional Resources
 [Personal ArcGIS Story Map](https://arcg.is/001P8a)
