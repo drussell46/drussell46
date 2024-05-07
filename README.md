@@ -12,10 +12,11 @@ crops in California. These codes involve the creation of Global Climate Model (G
 I have also provided the Maximum Entropy and Random Forest Classification prediction models which were created to understand how the 
 suitability range of pistachios will be changing in the near future.
 
-## Author
+## Author // Contact Information
 
 Dylan Russell  
-[@dylan.russell](@dylan.russell046@gmail.com)
+
+@dylan.russell046@gmail.com
 
 714-599-2003
 
