@@ -8,7 +8,7 @@ understanding geographical data and making informed decisions.
 
 ## Description
 
-This page provides the python codes that I have created for various projects and coursework during my tenure at California Polytechnic 
+This page provides the python codes that I have created for various projects and coursework during my tenure at California State Polytechnic 
 University, Pomona. The majority of the codes provided are in relation with my research on the impact of climate change on Pistachio 
 crops in California. These codes involve the creation of Global Climate Model (GCM) databases, which atrributes to terabytes of information.
 I have also provided the Maximum Entropy and Random Forest Classification prediction models which were created to understand how the 
